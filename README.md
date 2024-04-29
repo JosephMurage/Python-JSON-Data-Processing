@@ -55,6 +55,6 @@ Contributions to this repository are welcome! If you have ideas for improvements
 
 ## Maintainers
 
-This project is maintained by [Joseph Murage](https://github.com/JosephMurage/Python-JSON-Data-Processing). If you have any questions or need assistance, feel free to contact us.
+This project is maintained by [Joseph Murage](https://github.com/JosephMurage/Python-JSON-Data-Processing). If you have any questions or need assistance, feel free to contact me.
 
 ---
