@@ -1,10 +1,10 @@
 import json
 
 data = '''{
-"name": "Joseph Murage",
+"name": "Your Name",
 "phone": {
 "type": "intl",
-"number": "+254 724 498 506"
+"number": "Your PhoneNum"
 },
 "email": {
 "hide": "yes"
